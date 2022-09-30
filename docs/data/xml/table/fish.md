@@ -10,7 +10,7 @@ Table that determines the fishes information regarding their sizes, rarity, etc.
 | - | - |
 | id | ID of the fish. |
 | fishingBook | bool - To enable or disable if the fish entry should be included in the fish album |
-| companion | Physical item the player obtains upon catching the fish (ex. Golden Fish) |
+| companion | _Unknown_ |
 | habitat | Type of liquid that the fish is in (water/seawater/lava/devilwater/poison/oil/emeraldwater/all) |
 | fishMastery | Required fishing mastery for player to obtain the fish |
 | rank | Rarity |
